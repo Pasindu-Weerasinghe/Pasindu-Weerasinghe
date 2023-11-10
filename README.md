@@ -3,9 +3,9 @@
 <h3 align="center">Undergraduate University of  Colombo School of Computing </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pasindu-weerasinghe-693286249/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Pasinsdu Weerasinghe" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/pasindu-weerasinghe-693286249/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pasinsdu Weerasinghe" height="30" width="40" />Pasinsdu Weerasinghe</a>  
   &nbsp;&nbsp;&nbsp;
- <a href = "mailto: weerasinghewpps@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: weerasinghewpps@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /> weerasinghewpps@gmail.com</a>
 </p>
 </p>
 
