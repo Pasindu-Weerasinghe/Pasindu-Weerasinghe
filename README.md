@@ -27,7 +27,6 @@
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a Academic Management System for marking student's attendance using QR codes...<br>
 ✔ I’m currently learning about Software Developing<br>
-✔ I’m looking for software engineering internship... <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
