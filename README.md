@@ -52,6 +52,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
   
   <hr>
   <p align="center">
