@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Pasindu Werasinghe a <b>final year</b> undergraduate from <a href="https://cmb.ac.lk/category/ucsc"> <b>University of Colombo School of Computing</b>, Sri-Lanka</a>. <br>
+    Hello, I am Pasindu Werasinghe. I <b>recently completed</b> my Bachelor of Science in Computer Science degree at <a href="https://cmb.ac.lk/category/ucsc"> <b>University of Colombo School of Computing</b>, Sri-Lanka</a>. <br>
     <b>My extensive technical skills include proficiency in Java, JavaScript, PHP, Python, and more, showcased through impactful projects like eQuor and Volunteer Lanka. I thrive in dynamic teams, seeking opportunities to contribute and make a valuable impact in the ever-evolving tech industry.</b>
   </em> 
   <br>
@@ -25,8 +25,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a Academic Management System for marking student's attendance using QR codes...<br>
-✔ I’m currently learning about Software Developing<br>
+✔ I’m currently working as a trainee systems engineer at SimCentric Technologies (Pvt.) Ltd<br>
+✔ I’m continuously learning about Software Developing and DevOps<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
