@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     Hello, I am Pasindu Werasinghe. I <b>recently completed</b> my Bachelor of Science in Computer Science degree at <a href="https://cmb.ac.lk/category/ucsc"> <b>University of Colombo School of Computing</b>, Sri-Lanka</a>. <br>
-    <b>My extensive technical skills include proficiency in Java, JavaScript, PHP, Python, and more, showcased through impactful projects like eQuor and Volunteer Lanka. I thrive in dynamic teams, seeking opportunities to contribute and make a valuable impact in the ever-evolving tech industry.</b>
+    <b>My developing technical skills include proficiency in AWS, Jenkins, Docker, and other essential DevOps tools. Through hands-on projects and continuous learning, I've built and managed CI/CD pipelines, automated deployments, and gained a solid understanding of cloud infrastructure. I thrive in collaborative environments and am eager to contribute to innovative projects and drive efficiency in dynamic tech teams.</b>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
