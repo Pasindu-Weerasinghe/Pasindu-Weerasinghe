@@ -34,7 +34,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
- 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
@@ -51,10 +54,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
+  
+  
   
   <hr>
   <p align="center">
